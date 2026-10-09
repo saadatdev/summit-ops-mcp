@@ -1,5 +1,7 @@
 # Summit Ops MCP server
 
+[![tests](https://github.com/saadatdev/summit-ops-mcp/actions/workflows/tests.yml/badge.svg)](https://github.com/saadatdev/summit-ops-mcp/actions/workflows/tests.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) ![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg) ![MCP SDK v2](https://img.shields.io/badge/MCP%20SDK-v2.3-purple.svg)
+
 Talk to your business in Claude, safely. An MCP server for **Summit Heating & Air** (a fictional HVAC company and Fieldwise customer) that lets Claude read jobs, invoices and schedules, and make changes only inside rules the server enforces.
 
 > Airtable's official MCP gives Claude the keys to the database. This server gives Claude a job description.
