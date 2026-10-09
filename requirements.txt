@@ -1,0 +1,6 @@
+# Pinned to the versions tested on 2026-10-09 (Python 3.12, Windows 11): 66 tests passing.
+mcp==2.3.0              # MCP Python SDK v2 (MCPServer; "FastMCP" in v1)
+pyairtable==3.5.0.post1
+anthropic==1.12.1       # only needed for evals
+python-dotenv==1.2.4
+pytest==9.1.1

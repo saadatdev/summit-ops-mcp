@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "summit-ops": {
+      "command": "C:\\Users\\YOU\\projects\\summit-ops-mcp\\.venv\\Scripts\\python.exe",
+      "args": ["C:\\Users\\YOU\\projects\\summit-ops-mcp\\run_server.py"]
+    }
+  }
+}
